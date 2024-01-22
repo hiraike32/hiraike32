@@ -1,16 +1,13 @@
-### Hi there 👋
+## About Me
 
-<!--
-**hiraike32/hiraike32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android App Developer
 
-Here are some ideas to get you started:
+- [X](https://twitter.com/hiraike32)
+- [Qiita](https://qiita.com/hiraike32)
+- [Blog](https://hiraike32.hatenablog.com/)
+- [LAPRAS](https://lapras.com/public/NOMBTYZ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career
+
+- dwango (2019-) Android App Developer
+- dwango (2018-2019) Frontend Engineer
