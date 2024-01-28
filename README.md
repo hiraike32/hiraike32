@@ -2,6 +2,8 @@
 
 Android App Developer
 
+<img src="images/android_icon.png" width="200">
+
 - [X](https://twitter.com/hiraike32)
 - [Qiita](https://qiita.com/hiraike32)
 - [Blog](https://hiraike32.hatenablog.com/)
