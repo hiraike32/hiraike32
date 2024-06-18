@@ -11,5 +11,5 @@ Android App Developer
 
 ## Career
 
-- dwango (2019-) Android App Developer
+- dwango (2019-2024) Android App Developer
 - dwango (2018-2019) Frontend Engineer
